@@ -6,6 +6,7 @@ date: 2016-12-22T20:04:40.407Z
 categories: 
   - tech
   - hobby
+gallery: []
 ---
 
 ### This is the very first blog post
