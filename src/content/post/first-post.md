@@ -5,9 +5,7 @@ image: /images/uploads/ds+1.jpg
 categories:
   - tech
   - hobby
-gallery:
-  - /images/uploads/wd.jpg
-  - /images/uploads/vp.jpg
+gallery: []
 date: 2016-12-22T20:04:40.407Z
 ---
 

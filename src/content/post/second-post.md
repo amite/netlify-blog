@@ -5,9 +5,7 @@ image: /images/uploads/bd.jpg
 categories:
   - fun
   - hobby
-gallery:
-  - /images/uploads/hairfall.jpg
-  - /images/uploads/scroll+copy.jpg
+gallery: []
 date: 2016-09-09T14:24:16.000Z
 ---
 Adding new content via netlify - editing new content with slug field
