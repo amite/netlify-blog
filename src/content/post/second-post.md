@@ -1,9 +1,9 @@
 ---
-path: '/second-post'
-date: 2016-09-09T14:24:16.000Z
 title: Second Post
+path: /second-post-redux
+date: 2016-09-09T14:24:16.000Z
 ---
-Adding new content via netlify
+Adding new content via netlify - editing new content with slug field
 
 Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. 
 
