@@ -1,6 +1,7 @@
 ---
-title: Second Post
+path: '/second-post'
 date: 2016-09-09T14:24:16.000Z
+title: Second Post
 ---
 Adding new content via netlify
 
