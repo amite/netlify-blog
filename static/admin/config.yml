@@ -10,13 +10,13 @@ public_folder: "images/uploads"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Blog" # Used in the UI, ie.: "New Post"
+    label: "New Blog Post" # Used in the UI, ie.: "New Post"
     folder: "src/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Url", name: "path", widget: "string", tagname: "h2"}
-      - {label: "Featured Image", name: "image", widget: "image", tagname: "h2"}
+      - {label: "Image", name: "image", widget: "image", tagname: "h2"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
   
