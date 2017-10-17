@@ -1,8 +1,8 @@
 ---
 title: Second Post
 path: /second-post-redux
+image: /images/uploads/bd.jpg
 date: 2016-09-09T14:24:16.000Z
-image: ''
 ---
 Adding new content via netlify - editing new content with slug field
 
