@@ -6,8 +6,8 @@ categories:
   - tech
   - hobby
 gallery:
-  - imageToRepeat: /images/uploads/wd.jpg
-  - imageToRepeat: /images/uploads/vp.jpg
+  - /images/uploads/wd.jpg
+  - /images/uploads/vp.jpg
 date: 2016-12-22T20:04:40.407Z
 ---
 

@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "gallery"
         widget: "list"
         fields:
-          - {label: "Add Image", name: "imageToRepeat", widget: "image", tagname: "h2"}
+          - {label: "Add Image", widget: "image", tagname: "h2"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
   

@@ -6,8 +6,8 @@ categories:
   - fun
   - hobby
 gallery:
-  - imageToRepeat: /images/uploads/hairfall.jpg
-  - imageToRepeat: /images/uploads/scroll+copy.jpg
+  - /images/uploads/hairfall.jpg
+  - /images/uploads/scroll+copy.jpg
 date: 2016-09-09T14:24:16.000Z
 ---
 Adding new content via netlify - editing new content with slug field
