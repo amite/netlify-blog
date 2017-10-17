@@ -1,6 +1,7 @@
 ---
 title: new image post
 image: /images/uploads/ds+3.jpg
+path: first-photograph
 categories:
   - art
   - gallery
