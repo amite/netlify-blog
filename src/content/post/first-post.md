@@ -1,8 +1,8 @@
 ---
-path: '/first-post'
-date: 2016-12-22T20:04:40.407Z
 title: First Post
-image: ''
+path: /first-post
+image: /images/uploads/ds+1.jpg
+date: 2016-12-22T20:04:40.407Z
 ---
 
 ### This is the very first blog post
