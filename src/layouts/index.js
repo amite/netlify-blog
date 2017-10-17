@@ -27,7 +27,7 @@ const Header = () => (
             textDecoration: 'none'
           }}
         >
-          Gatsby
+          Parul Gupta
         </Link>
       </h1>
     </div>
