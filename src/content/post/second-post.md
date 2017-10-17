@@ -2,11 +2,13 @@
 title: Second Post
 path: /second-post-redux
 image: /images/uploads/bd.jpg
-date: 2016-09-09T14:24:16.000Z
-categories: 
+categories:
   - fun
   - hobby
-gallery: []
+gallery:
+  - imageToRepeat: /images/uploads/hairfall.jpg
+  - imageToRepeat: /images/uploads/scroll+copy.jpg
+date: 2016-09-09T14:24:16.000Z
 ---
 Adding new content via netlify - editing new content with slug field
 
